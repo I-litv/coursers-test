@@ -1,0 +1,32 @@
+header {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 3em;
+}
+
+
+.section{
+	background-color: grey;
+	margin-left: 10px;
+	margin-top: 20px;
+	padding: 0px;
+
+	border:1px black solid ;
+	
+}
+h3 {
+	text-align: center;
+	border:1px black solid;
+	background-color: green;
+	margin-left: 75%;
+}
+p {
+	margin-top: 3px;
+	margin-left: 5px;
+}
+#ssc {
+	background-color: blue;
+}
+#sjava {
+	background-color: red;
+}
